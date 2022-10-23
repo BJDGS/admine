@@ -11,3 +11,5 @@ export default {
   setup () {}
 }
 </script>
+
+<style></style>
